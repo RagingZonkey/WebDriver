@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test.WebDriverTest" duration-ms="3933" started-at="2021-11-14T22:57:02 MSK" finished-at="2021-11-14T22:57:06 MSK">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="3933" started-at="2021-11-14T22:57:02 MSK" finished-at="2021-11-14T22:57:06 MSK">
+      <class name="test.WebDriverTest">
+        <test-method status="PASS" signature="browserLoadUp()[pri:0, instance:test.WebDriverTest@4e1d422d]" name="browserLoadUp" is-config="true" duration-ms="3894" started-at="2021-11-14T22:57:02 MSK" finished-at="2021-11-14T22:57:06 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLoadUp -->
+        <test-method status="PASS" signature="someFunctionTest()[pri:0, instance:test.WebDriverTest@4e1d422d]" name="someFunctionTest" duration-ms="0" started-at="2021-11-14T22:57:06 MSK" finished-at="2021-11-14T22:57:06 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- someFunctionTest -->
+        <test-method status="PASS" signature="browserQuit()[pri:0, instance:test.WebDriverTest@4e1d422d]" name="browserQuit" is-config="true" duration-ms="0" started-at="2021-11-14T22:57:06 MSK" finished-at="2021-11-14T22:57:06 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- test.WebDriverTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- test.WebDriverTest -->
+</testng-results>
